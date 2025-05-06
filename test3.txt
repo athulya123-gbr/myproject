@@ -1,2 +1,14 @@
-hghghjg hjvhjhj jbhjjb
-ghjghjh
+$ git checkout test2
+Switched to branch 'test2'
+$ git checkout test2
+Switched to branch 'test2'
+$ git checkout test2
+Switched to branch 'test2'
+$ git checkout test2
+Switched to branch 'test2'
+$ git checkout test2
+Switched to branch 'test2'
+$ git checkout test2
+Switched to branch 'test2'
+$ git checkout test2
+Switched to branch 'test2'
